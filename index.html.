@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>Website design system</title>
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Inter:wght@200;300&family=Merriweather:ital@0;1&family=Montserrat:ital,wght@1,100;1,300&family=Open+Sans:ital,wght@0,300;0,400;1,300;1,400&family=Roboto+Condensed:ital,wght@0,200;0,300;1,200;1,300&family=Work+Sans:wght@400;500;800&display=swap"
+      rel="stylesheet"
+    />
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+    <div class="frame">
+      <section class="color-section">
+        <h2>Base colors</h2>
+        <p>
+          Our design system supports color palettes for interface and brand
+          purposes.It contains base colors for most scenarios and product use
+          cases. Elements are hand crafted with the highest precision regarding
+          colors, shades and contrasts
+        </p>
+      </section>
+      <section class="color-section">
+        <h2>Primary Orange</h2>
+        <div class="color-display">
+          <div class="color color1">
+            <p class="top-text">700</p>
+            <p class="bottom-text">#D64226</p>
+          </div>
+          <div class="color color2">
+            <p class="top-text">500</p>
+            <p class="bottom-text">#F85E11</p>
+          </div>
+          <div class="color color3">
+            <p class="top-text">400</p>
+            <p class="bottom-text">#F97D50</p>
+          </div>
+          <div class="color color4">
+            <p class="top-text">100</p>
+            <p class="bottom-text">#FFD8D1</p>
+          </div>
+          <div class="color color5">
+            <p class="top-text">50</p>
+            <p class="bottom-text">#FFF0F0</p>
+          </div>
+        </div>
+      </section>
+      <section class="color-section">
+        <h2>Gray Scale</h2>
+        <div class="color-display">
+          <div class="color color6">
+            <p class="top-text">900</p>
+            <p class="bottom-text">#100D0A</p>
+          </div>
+          <div class="color color7">
+            <p class="top-text">800</p>
+            <p class="bottom-text">#2E2E2E</p>
+          </div>
+          <div class="color color8">
+            <p class="top-text">700</p>
+            <p class="bottom-text">#4D4D4D</p>
+          </div>
+          <div class="color color9">
+            <p class="top-text">600</p>
+            <p class="bottom-text">#666666</p>
+          </div>
+          <div class="color color10">
+            <p class="top-text">200</p>
+            <p class="bottom-text">#D1D1D1</p>
+          </div>
+          <div class="color color11">
+            <p class="top-text">100</p>
+            <p class="bottom-text">#D6D6D6</p>
+          </div>
+          <div class="color color12">
+            <p class="top-text">50</p>
+            <p class="bottom-text">#EFEFEF</p>
+          </div>
+          <div class="color color13">
+            <p class="top-text">0</p>
+            <p class="bottom-text">#FFFFFF</p>
+          </div>
+        </div>
+      </section>
+      <section>
+        <h2>Text colors</h2>
+        <div class="color-display">
+          <div class="color Black">
+            <p class="top-text">Black text</p>
+            <p class="bottom-text">#100DOA</p>
+          </div>
+          <div class="color Description">
+            <p class="top-text">Description</p>
+            <p class="bottom-text">#424242</p>
+          </div>
+          <div class="color AdditionalText">
+            <p class="top-text">Additional Text</p>
+            <p class="bottom-text">#7A7A7A</p>
+          </div>
+          <div class="color WhiteText">
+            <p class="top-text">White Text</p>
+            <p class="bottom-text">#FFFFFF</p>
+          </div>
+        </div>
+      </section>
+      <section>
+        <h2>Fonts</h2>
+        <h3>Roboto Condensed</h3>
+        <div class="two-columns">
+          <p class="RCextra-light200">ExtraLight 200</p>
+          <p class="RCextra-light200">
+            Great accomplishments depend not so much on ingenuity as on hard
+            work.
+          </p>
+        </div>
+        <div class="two-columns">
+          <p class="RCextra-lightitalic">ExtraLight 200 Italic</p>
+          <p class="RCextra-lightitalic">
+            Great accomplishments depend not so much on ingenuity as on hard
+            work.
+          </p>
+        </div>
+      </section>
+      <section>
+        <h3>Montserrat</h3>
+        <div class="two-columns">
+          <p class="Thin100italic">Thin 100 Italic</p>
+          <p class="Thin100italic">
+            Great accomplishments depend not so much on ingenuity as on hard
+            work.
+          </p>
+        </div>
+        <div class="two-columns">
+          <p class="Thin300italic">Light 300 Italic</p>
+          <p class="Thin300italic">
+            Great accomplishments depend not so much on ingenuity as on hard
+            work.
+          </p>
+        </div>
+      </section>
+      <section>
+        <h3>Inter</h3>
+        <div class="two-columns">
+          <p class="Interextralight200">ExtraLight 200</p>
+          <p class="Interextralight200">
+            Great accomplishments depend not so much on ingenuity as on hard
+            work.
+          </p>
+        </div>
+        <div class="two-columns">
+          <p class="Interlight300">Light 300</p>
+          <p class="Interlight300">
+            Great accomplishments depend not so much on ingenuity as on hard
+            work.
+          </p>
+        </div>
+      </section>
+      <section>
+        <h1> Typography</h1>
+        <h1>Header</h1>
+        <p>
+          Font: Roboto Condensed / color code [Hex]:#07575b
+        </p>
+        <h2>Header</h2>
+        <p>
+          Font: Roboto Condensed / color code [Hex]:#143548
+        </p>
+        <h3>Header</h3>
+        <p>
+          Font: Roboto Condensed / color code [Hex]:#05014a
+        </p>
+        <h4>Header</h4>
+        <p>
+          Font: Roboto Condensed / color code [Hex]:#0006b1
+        </p>
+        <h5>Header</h5>
+        <p>
+          Font: Roboto Condensed / color code [Hex]:#0021f3
+        </p>
+      </section>
+    </div>
+    <section>
+      <h3>Sources</h3>
+      <p>"Colors and Typography for Web Design System":https://dribbble.com/shots/19549361-Colors-and-Typography-for-Web-Design-System</p>
+      <p>"How To Create a Web Design Style Guide":https://designmodo.com/create-style-guides/</p>
+    </section>
+  </body>
+</html>
